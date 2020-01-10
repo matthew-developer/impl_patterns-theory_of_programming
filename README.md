@@ -1,2 +1,2 @@
-# impl_patterns-theory_of_programming
-Theory of Programming
+# impl_patterns-theory-of-programming
+Theory of programming
